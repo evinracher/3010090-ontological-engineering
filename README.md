@@ -1,6 +1,6 @@
 # README
 
-## Program Information
+## Course Information
 - **Program:** Specialization in Artificial Intelligence
 - **SNIES Code:** 108149
 - **University:** Universidad Nacional de Colombia
