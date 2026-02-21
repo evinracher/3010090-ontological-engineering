@@ -1,0 +1,21 @@
+De "Hablar" a "Hacer": ¿Qué es la IA Agéntica?
+Hasta hace poco, estábamos acostumbrados a interactuar con modelos generativos de forma lineal: escribes una pregunta (prompt) y la IA te devuelve una respuesta de texto, imagen o código. El modelo actúa como un consultor pasivo que depende enteramente de tus instrucciones paso a paso.
+
+La IA Agéntica cambia las reglas del juego. Un "Agente" es un sistema de IA capaz de entender un objetivo complejo, crear un plan para lograrlo y ejecutar acciones de forma autónoma con una supervisión humana mínima. Ya no solo "piensan" y "hablan"; ahora actúan.
+
+
+Los 4 Pilares de un Agente de IA
+Para que un sistema pase de ser un simple modelo de lenguaje a un verdadero Agente, necesita cuatro componentes fundamentales:
+
+El "Cerebro" (Modelo Fundacional): El motor principal suele ser un Modelo de Lenguaje Grande (LLM). Es el encargado de entender el contexto, razonar, tomar decisiones y procesar la información.
+
+Planificación y Razonamiento: Un agente no responde de impulso. Utiliza técnicas (como Chain of Thought o ReAct) para desglosar un problema grande en pasos más pequeños. Intenta algo, observa el resultado, corrige sus errores y vuelve a intentar hasta cumplir el objetivo.
+
+Memoria (A corto y largo plazo): * A corto plazo: Le permite recordar el contexto de la tarea actual (qué pasos ya completó y qué falló).
+
+A largo plazo: A menudo impulsada por bases de datos vectoriales, le permite recordar interacciones pasadas o acceder a conocimiento almacenado (como los documentos que aprendimos a cargar anteriormente).
+
+Uso de Herramientas (Tools / Actuadores): Este es su verdadero superpoder. Un agente puede conectarse al mundo exterior mediante APIs. Puede buscar en internet, ejecutar código en Python, hacer consultas SQL, enviar correos electrónicos o leer archivos locales.
+
+¿Por qué es el futuro?
+La IA agéntica promete automatizar flujos de trabajo completos, no solo tareas aisladas. Funciona como un empleado digital incansable que puede investigar, programar, analizar datos y ejecutar procesos comerciales, permitiendo a los humanos enfocarse en la estrategia y la creatividad.
